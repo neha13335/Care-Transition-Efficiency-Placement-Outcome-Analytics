@@ -9,7 +9,7 @@ import plotly.express as px
 # ----------------------------------
 
 BASE = Path(__file__).parent
-DATA_FILE = BASE / "outputs" / "daily_analysis.csv"
+DATA_FILE = BASE / "daily_analysis.csv"
 
 st.set_page_config(
     page_title="Care Transition Analytics",
