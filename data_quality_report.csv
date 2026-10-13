@@ -1,0 +1,11 @@
+Check,Result
+Original row count,1170
+Rows with invalid/missing dates,450
+Rows after removing invalid dates,720
+Missing values in required columns,3420
+Duplicate dates detected,0
+Negative values: Children apprehended and placed in CBP custody,0
+Negative values: Children in CBP custody,0
+Negative values: Children transferred out of CBP custody,0
+Negative values: Children in HHS Care,0
+Negative values: Children discharged from HHS Care,0
